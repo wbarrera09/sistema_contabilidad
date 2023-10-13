@@ -43,7 +43,7 @@
             <div class="p-3 my-3 bg-primary text-white header-container">
                 <h1>SISTEMA CONTABILIDAD</h1>
                 <p>Agregar Cuenta al Catalogo</p>
-                <p>mensaje de prueba GITHUB</p>
+                <p>mensaje de prueba GITHUB 2.0000</p>
 
             </div>
 
