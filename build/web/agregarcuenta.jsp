@@ -38,17 +38,19 @@
 
     </head>
     <body>
-        
+
         <div>
             <div class="p-3 my-3 bg-primary text-white header-container">
                 <h1>SISTEMA CONTABILIDAD</h1>
                 <p>Agregar Cuenta al Catalogo</p>
+                <p>mensaje de prueba GITHUB</p>
+
             </div>
-            
-    
-            
+
+
+
             <div class="row p-5">
-                
+
                 <form role="form" action="insertarcuenta.jsp" method="POST">
                     <div class="col-12">
 
@@ -103,8 +105,8 @@
                             </select>
                         </div> 
                         <input type="submit" class="btn btn-success" value="Guardar" >
-                        
-                        
+
+
 
                     </div>
 
@@ -142,5 +144,5 @@
         </script>
 
 
-</body>
+    </body>
 </html>
